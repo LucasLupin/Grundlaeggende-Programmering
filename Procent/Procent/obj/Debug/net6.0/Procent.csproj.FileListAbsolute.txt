@@ -1,0 +1,15 @@
+/Users/lucas/Projects/Procent/Procent/bin/Debug/net6.0/Procent
+/Users/lucas/Projects/Procent/Procent/bin/Debug/net6.0/Procent.deps.json
+/Users/lucas/Projects/Procent/Procent/bin/Debug/net6.0/Procent.runtimeconfig.json
+/Users/lucas/Projects/Procent/Procent/bin/Debug/net6.0/Procent.dll
+/Users/lucas/Projects/Procent/Procent/bin/Debug/net6.0/Procent.pdb
+/Users/lucas/Projects/Procent/Procent/obj/Debug/net6.0/Procent.csproj.AssemblyReference.cache
+/Users/lucas/Projects/Procent/Procent/obj/Debug/net6.0/Procent.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucas/Projects/Procent/Procent/obj/Debug/net6.0/Procent.AssemblyInfoInputs.cache
+/Users/lucas/Projects/Procent/Procent/obj/Debug/net6.0/Procent.AssemblyInfo.cs
+/Users/lucas/Projects/Procent/Procent/obj/Debug/net6.0/Procent.csproj.CoreCompileInputs.cache
+/Users/lucas/Projects/Procent/Procent/obj/Debug/net6.0/Procent.dll
+/Users/lucas/Projects/Procent/Procent/obj/Debug/net6.0/refint/Procent.dll
+/Users/lucas/Projects/Procent/Procent/obj/Debug/net6.0/Procent.pdb
+/Users/lucas/Projects/Procent/Procent/obj/Debug/net6.0/Procent.genruntimeconfig.cache
+/Users/lucas/Projects/Procent/Procent/obj/Debug/net6.0/ref/Procent.dll
