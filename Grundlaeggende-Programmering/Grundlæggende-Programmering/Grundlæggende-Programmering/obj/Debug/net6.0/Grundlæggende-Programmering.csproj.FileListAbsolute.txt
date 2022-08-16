@@ -1,0 +1,15 @@
+/Users/lucas/Projects/Grundlaeggende-Programmering/Grundlæggende-Programmering/Grundlæggende-Programmering/obj/Debug/net6.0/Grundlæggende-Programmering.csproj.AssemblyReference.cache
+/Users/lucas/Projects/Grundlaeggende-Programmering/Grundlæggende-Programmering/Grundlæggende-Programmering/obj/Debug/net6.0/Grundlæggende-Programmering.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucas/Projects/Grundlaeggende-Programmering/Grundlæggende-Programmering/Grundlæggende-Programmering/obj/Debug/net6.0/Grundlæggende-Programmering.AssemblyInfoInputs.cache
+/Users/lucas/Projects/Grundlaeggende-Programmering/Grundlæggende-Programmering/Grundlæggende-Programmering/obj/Debug/net6.0/Grundlæggende-Programmering.AssemblyInfo.cs
+/Users/lucas/Projects/Grundlaeggende-Programmering/Grundlæggende-Programmering/Grundlæggende-Programmering/obj/Debug/net6.0/Grundlæggende-Programmering.csproj.CoreCompileInputs.cache
+/Users/lucas/Projects/Grundlaeggende-Programmering/Grundlæggende-Programmering/Grundlæggende-Programmering/bin/Debug/net6.0/Grundlæggende-Programmering
+/Users/lucas/Projects/Grundlaeggende-Programmering/Grundlæggende-Programmering/Grundlæggende-Programmering/bin/Debug/net6.0/Grundlæggende-Programmering.deps.json
+/Users/lucas/Projects/Grundlaeggende-Programmering/Grundlæggende-Programmering/Grundlæggende-Programmering/bin/Debug/net6.0/Grundlæggende-Programmering.runtimeconfig.json
+/Users/lucas/Projects/Grundlaeggende-Programmering/Grundlæggende-Programmering/Grundlæggende-Programmering/bin/Debug/net6.0/Grundlæggende-Programmering.dll
+/Users/lucas/Projects/Grundlaeggende-Programmering/Grundlæggende-Programmering/Grundlæggende-Programmering/bin/Debug/net6.0/Grundlæggende-Programmering.pdb
+/Users/lucas/Projects/Grundlaeggende-Programmering/Grundlæggende-Programmering/Grundlæggende-Programmering/obj/Debug/net6.0/Grundlæggende-Programmering.dll
+/Users/lucas/Projects/Grundlaeggende-Programmering/Grundlæggende-Programmering/Grundlæggende-Programmering/obj/Debug/net6.0/refint/Grundlæggende-Programmering.dll
+/Users/lucas/Projects/Grundlaeggende-Programmering/Grundlæggende-Programmering/Grundlæggende-Programmering/obj/Debug/net6.0/Grundlæggende-Programmering.pdb
+/Users/lucas/Projects/Grundlaeggende-Programmering/Grundlæggende-Programmering/Grundlæggende-Programmering/obj/Debug/net6.0/Grundlæggende-Programmering.genruntimeconfig.cache
+/Users/lucas/Projects/Grundlaeggende-Programmering/Grundlæggende-Programmering/Grundlæggende-Programmering/obj/Debug/net6.0/ref/Grundlæggende-Programmering.dll
