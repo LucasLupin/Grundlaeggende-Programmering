@@ -1,0 +1,15 @@
+/Users/lucas/Projects/GrProg2/GrProg2/obj/Debug/net6.0/GrProg2.csproj.AssemblyReference.cache
+/Users/lucas/Projects/GrProg2/GrProg2/obj/Debug/net6.0/GrProg2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucas/Projects/GrProg2/GrProg2/obj/Debug/net6.0/GrProg2.AssemblyInfoInputs.cache
+/Users/lucas/Projects/GrProg2/GrProg2/obj/Debug/net6.0/GrProg2.AssemblyInfo.cs
+/Users/lucas/Projects/GrProg2/GrProg2/obj/Debug/net6.0/GrProg2.csproj.CoreCompileInputs.cache
+/Users/lucas/Projects/GrProg2/GrProg2/bin/Debug/net6.0/GrProg2
+/Users/lucas/Projects/GrProg2/GrProg2/bin/Debug/net6.0/GrProg2.deps.json
+/Users/lucas/Projects/GrProg2/GrProg2/bin/Debug/net6.0/GrProg2.runtimeconfig.json
+/Users/lucas/Projects/GrProg2/GrProg2/bin/Debug/net6.0/GrProg2.dll
+/Users/lucas/Projects/GrProg2/GrProg2/bin/Debug/net6.0/GrProg2.pdb
+/Users/lucas/Projects/GrProg2/GrProg2/obj/Debug/net6.0/GrProg2.dll
+/Users/lucas/Projects/GrProg2/GrProg2/obj/Debug/net6.0/refint/GrProg2.dll
+/Users/lucas/Projects/GrProg2/GrProg2/obj/Debug/net6.0/GrProg2.pdb
+/Users/lucas/Projects/GrProg2/GrProg2/obj/Debug/net6.0/GrProg2.genruntimeconfig.cache
+/Users/lucas/Projects/GrProg2/GrProg2/obj/Debug/net6.0/ref/GrProg2.dll
