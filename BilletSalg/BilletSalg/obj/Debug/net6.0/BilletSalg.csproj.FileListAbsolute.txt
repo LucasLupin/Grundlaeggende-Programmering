@@ -1,0 +1,15 @@
+/Users/lucas/Projects/BilletSalg/BilletSalg/bin/Debug/net6.0/BilletSalg
+/Users/lucas/Projects/BilletSalg/BilletSalg/bin/Debug/net6.0/BilletSalg.deps.json
+/Users/lucas/Projects/BilletSalg/BilletSalg/bin/Debug/net6.0/BilletSalg.runtimeconfig.json
+/Users/lucas/Projects/BilletSalg/BilletSalg/bin/Debug/net6.0/BilletSalg.dll
+/Users/lucas/Projects/BilletSalg/BilletSalg/bin/Debug/net6.0/BilletSalg.pdb
+/Users/lucas/Projects/BilletSalg/BilletSalg/obj/Debug/net6.0/BilletSalg.csproj.AssemblyReference.cache
+/Users/lucas/Projects/BilletSalg/BilletSalg/obj/Debug/net6.0/BilletSalg.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucas/Projects/BilletSalg/BilletSalg/obj/Debug/net6.0/BilletSalg.AssemblyInfoInputs.cache
+/Users/lucas/Projects/BilletSalg/BilletSalg/obj/Debug/net6.0/BilletSalg.AssemblyInfo.cs
+/Users/lucas/Projects/BilletSalg/BilletSalg/obj/Debug/net6.0/BilletSalg.csproj.CoreCompileInputs.cache
+/Users/lucas/Projects/BilletSalg/BilletSalg/obj/Debug/net6.0/BilletSalg.dll
+/Users/lucas/Projects/BilletSalg/BilletSalg/obj/Debug/net6.0/refint/BilletSalg.dll
+/Users/lucas/Projects/BilletSalg/BilletSalg/obj/Debug/net6.0/BilletSalg.pdb
+/Users/lucas/Projects/BilletSalg/BilletSalg/obj/Debug/net6.0/BilletSalg.genruntimeconfig.cache
+/Users/lucas/Projects/BilletSalg/BilletSalg/obj/Debug/net6.0/ref/BilletSalg.dll
