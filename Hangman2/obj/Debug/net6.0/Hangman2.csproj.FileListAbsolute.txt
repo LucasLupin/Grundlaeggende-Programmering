@@ -1,0 +1,15 @@
+/Users/lucas/Projects/Hangman2/Hangman2/bin/Debug/net6.0/Hangman2
+/Users/lucas/Projects/Hangman2/Hangman2/bin/Debug/net6.0/Hangman2.deps.json
+/Users/lucas/Projects/Hangman2/Hangman2/bin/Debug/net6.0/Hangman2.runtimeconfig.json
+/Users/lucas/Projects/Hangman2/Hangman2/bin/Debug/net6.0/Hangman2.dll
+/Users/lucas/Projects/Hangman2/Hangman2/bin/Debug/net6.0/Hangman2.pdb
+/Users/lucas/Projects/Hangman2/Hangman2/obj/Debug/net6.0/Hangman2.csproj.AssemblyReference.cache
+/Users/lucas/Projects/Hangman2/Hangman2/obj/Debug/net6.0/Hangman2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucas/Projects/Hangman2/Hangman2/obj/Debug/net6.0/Hangman2.AssemblyInfoInputs.cache
+/Users/lucas/Projects/Hangman2/Hangman2/obj/Debug/net6.0/Hangman2.AssemblyInfo.cs
+/Users/lucas/Projects/Hangman2/Hangman2/obj/Debug/net6.0/Hangman2.csproj.CoreCompileInputs.cache
+/Users/lucas/Projects/Hangman2/Hangman2/obj/Debug/net6.0/Hangman2.dll
+/Users/lucas/Projects/Hangman2/Hangman2/obj/Debug/net6.0/refint/Hangman2.dll
+/Users/lucas/Projects/Hangman2/Hangman2/obj/Debug/net6.0/Hangman2.pdb
+/Users/lucas/Projects/Hangman2/Hangman2/obj/Debug/net6.0/Hangman2.genruntimeconfig.cache
+/Users/lucas/Projects/Hangman2/Hangman2/obj/Debug/net6.0/ref/Hangman2.dll
