@@ -1,0 +1,15 @@
+/Users/lucas/Projects/PersonObjekter/PersonObjekter/bin/Debug/net6.0/PersonObjekter
+/Users/lucas/Projects/PersonObjekter/PersonObjekter/bin/Debug/net6.0/PersonObjekter.deps.json
+/Users/lucas/Projects/PersonObjekter/PersonObjekter/bin/Debug/net6.0/PersonObjekter.runtimeconfig.json
+/Users/lucas/Projects/PersonObjekter/PersonObjekter/bin/Debug/net6.0/PersonObjekter.dll
+/Users/lucas/Projects/PersonObjekter/PersonObjekter/bin/Debug/net6.0/PersonObjekter.pdb
+/Users/lucas/Projects/PersonObjekter/PersonObjekter/obj/Debug/net6.0/PersonObjekter.csproj.AssemblyReference.cache
+/Users/lucas/Projects/PersonObjekter/PersonObjekter/obj/Debug/net6.0/PersonObjekter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucas/Projects/PersonObjekter/PersonObjekter/obj/Debug/net6.0/PersonObjekter.AssemblyInfoInputs.cache
+/Users/lucas/Projects/PersonObjekter/PersonObjekter/obj/Debug/net6.0/PersonObjekter.AssemblyInfo.cs
+/Users/lucas/Projects/PersonObjekter/PersonObjekter/obj/Debug/net6.0/PersonObjekter.csproj.CoreCompileInputs.cache
+/Users/lucas/Projects/PersonObjekter/PersonObjekter/obj/Debug/net6.0/PersonObjekter.dll
+/Users/lucas/Projects/PersonObjekter/PersonObjekter/obj/Debug/net6.0/refint/PersonObjekter.dll
+/Users/lucas/Projects/PersonObjekter/PersonObjekter/obj/Debug/net6.0/PersonObjekter.pdb
+/Users/lucas/Projects/PersonObjekter/PersonObjekter/obj/Debug/net6.0/PersonObjekter.genruntimeconfig.cache
+/Users/lucas/Projects/PersonObjekter/PersonObjekter/obj/Debug/net6.0/ref/PersonObjekter.dll
