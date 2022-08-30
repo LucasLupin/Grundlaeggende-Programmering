@@ -1,0 +1,3 @@
+﻿using FiskOop;
+new Gui();
+

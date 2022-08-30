@@ -1,0 +1,15 @@
+/Users/lucas/Projects/FiskOop/FiskOop/obj/Debug/net6.0/FiskOop.csproj.AssemblyReference.cache
+/Users/lucas/Projects/FiskOop/FiskOop/obj/Debug/net6.0/FiskOop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucas/Projects/FiskOop/FiskOop/obj/Debug/net6.0/FiskOop.AssemblyInfoInputs.cache
+/Users/lucas/Projects/FiskOop/FiskOop/obj/Debug/net6.0/FiskOop.AssemblyInfo.cs
+/Users/lucas/Projects/FiskOop/FiskOop/obj/Debug/net6.0/FiskOop.csproj.CoreCompileInputs.cache
+/Users/lucas/Projects/FiskOop/FiskOop/bin/Debug/net6.0/FiskOop
+/Users/lucas/Projects/FiskOop/FiskOop/bin/Debug/net6.0/FiskOop.deps.json
+/Users/lucas/Projects/FiskOop/FiskOop/bin/Debug/net6.0/FiskOop.runtimeconfig.json
+/Users/lucas/Projects/FiskOop/FiskOop/bin/Debug/net6.0/FiskOop.dll
+/Users/lucas/Projects/FiskOop/FiskOop/bin/Debug/net6.0/FiskOop.pdb
+/Users/lucas/Projects/FiskOop/FiskOop/obj/Debug/net6.0/FiskOop.dll
+/Users/lucas/Projects/FiskOop/FiskOop/obj/Debug/net6.0/refint/FiskOop.dll
+/Users/lucas/Projects/FiskOop/FiskOop/obj/Debug/net6.0/FiskOop.pdb
+/Users/lucas/Projects/FiskOop/FiskOop/obj/Debug/net6.0/FiskOop.genruntimeconfig.cache
+/Users/lucas/Projects/FiskOop/FiskOop/obj/Debug/net6.0/ref/FiskOop.dll
