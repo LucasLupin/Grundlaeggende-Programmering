@@ -1,0 +1,15 @@
+/Users/lucas/Projects/OOPSpotiflix/OOPSpotiflix/bin/Debug/net6.0/OOPSpotiflix
+/Users/lucas/Projects/OOPSpotiflix/OOPSpotiflix/bin/Debug/net6.0/OOPSpotiflix.deps.json
+/Users/lucas/Projects/OOPSpotiflix/OOPSpotiflix/bin/Debug/net6.0/OOPSpotiflix.runtimeconfig.json
+/Users/lucas/Projects/OOPSpotiflix/OOPSpotiflix/bin/Debug/net6.0/OOPSpotiflix.dll
+/Users/lucas/Projects/OOPSpotiflix/OOPSpotiflix/bin/Debug/net6.0/OOPSpotiflix.pdb
+/Users/lucas/Projects/OOPSpotiflix/OOPSpotiflix/obj/Debug/net6.0/OOPSpotiflix.csproj.AssemblyReference.cache
+/Users/lucas/Projects/OOPSpotiflix/OOPSpotiflix/obj/Debug/net6.0/OOPSpotiflix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucas/Projects/OOPSpotiflix/OOPSpotiflix/obj/Debug/net6.0/OOPSpotiflix.AssemblyInfoInputs.cache
+/Users/lucas/Projects/OOPSpotiflix/OOPSpotiflix/obj/Debug/net6.0/OOPSpotiflix.AssemblyInfo.cs
+/Users/lucas/Projects/OOPSpotiflix/OOPSpotiflix/obj/Debug/net6.0/OOPSpotiflix.csproj.CoreCompileInputs.cache
+/Users/lucas/Projects/OOPSpotiflix/OOPSpotiflix/obj/Debug/net6.0/OOPSpotiflix.dll
+/Users/lucas/Projects/OOPSpotiflix/OOPSpotiflix/obj/Debug/net6.0/refint/OOPSpotiflix.dll
+/Users/lucas/Projects/OOPSpotiflix/OOPSpotiflix/obj/Debug/net6.0/OOPSpotiflix.pdb
+/Users/lucas/Projects/OOPSpotiflix/OOPSpotiflix/obj/Debug/net6.0/OOPSpotiflix.genruntimeconfig.cache
+/Users/lucas/Projects/OOPSpotiflix/OOPSpotiflix/obj/Debug/net6.0/ref/OOPSpotiflix.dll
